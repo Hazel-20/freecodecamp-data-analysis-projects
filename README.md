@@ -1,4 +1,4 @@
-# 📊 Data Analysis with Python 
+# Data Analysis with Python 
 
 This repository contains projects completed for the [freeCodeCamp Data Analysis with Python Certification](https://www.freecodecamp.org/learn/data-analysis-with-python/).
 
@@ -21,7 +21,7 @@ Analyzes 1994 Census data to find correlations between race, sex, education, and
 Creates visualizations (bar plot, heatmap) of medical exam data to explore health patterns.
 
 
-## 4. Page View Time Series Visualizer
+## 4. Time Series Visualizer
 
  [`page-view-time-series-visualizer/`](./page-view-time-series-visualizer/)  
 Visualizes a dataset of daily page views with time series plots and box plots.
